@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Dr. Benjamin Hao" # "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Benjamin Hao"
-description              : &description "personal description"
+name                     : &name "Dr. Benjamin Hao"
+description              : &description "A researcher of distributed storage system."
 url                      : https://everythingaboutstorage.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "everythingaboutstorage/everythingaboutstorage.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Benjamin Hao" # "Your Sidebar Name"
   avatar           : "profile.png"
-  bio              : "A researcher of distributed storage system."
+  bio              : "A researcher of distributed storage system"
   location         : "Shenzhen, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
