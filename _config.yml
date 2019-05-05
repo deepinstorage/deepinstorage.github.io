@@ -11,9 +11,9 @@ title                    : "Dr. Benjamin Hao" # "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Dr. Benjamin Hao"
 description              : &description "A researcher of distributed storage system."
-url                      : https://everythingaboutstorage.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://deepinstorage.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "everythingaboutstorage/everythingaboutstorage.github.io"
+repository               : "deepinstorage/deepinstorage.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "everythingaboutstorage"
+  github           : "deepinstorage"
   google_plus      :
   keybase          :
   instagram        :
